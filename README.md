@@ -1,6 +1,6 @@
 ## Vinicius de Morais ##
 
-- 🌱 I’m currently learning: 🐍Python
+- 🐍Python code like a snake
 - 📫 contato: vmorais194@gmail.com
 
 <div>
